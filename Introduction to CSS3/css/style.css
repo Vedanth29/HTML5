@@ -1,0 +1,75 @@
+body {
+    background-color:#334257e0;
+}
+/**************TAG SELECTOR****************/
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width:10%;
+}
+
+h1 {
+    color:#FF6767;
+}
+
+h3 {
+    background-color:#548ca89a;
+    color:rgb(255, 255, 0);
+}
+
+img {
+    background-color:rgba(210, 105, 30, 0.164);
+}
+
+h2 {
+    background-color:#476072;
+    color: yellow;
+}
+
+p {
+    color:rgba(255, 255, 0, 0.89);
+}
+
+
+pre {
+    color: rgba(255, 255, 0, 0.829);
+}
+
+li {
+    color: rgba(255, 255, 0, 0.795);
+}
+
+td {
+    color: rgba(255, 255, 0, 0.801);
+}
+
+label {
+    color: rgba(255, 255, 0, 0.822);
+}
+
+textarea{
+    background-color: lightslategray;
+    color: greenyellow;
+}
+
+input {
+    background-color: rgb(170, 197, 224);
+    color:greenyellow;
+}
+
+
+/**************CLASS SELECTOR****************/
+
+.detail{
+    background-color: #667885;
+    color: #FF6767;
+}
+
+/*************ID SELECTOR********************/
+
+#info {
+    background-color: rgba(245, 245, 245, 0.171);
+    color: tomato;
+}
