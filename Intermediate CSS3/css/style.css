@@ -1,0 +1,99 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: monospace, verdana;
+}
+
+h1 {
+  color: #66bfbf;
+  line-height: 2;
+  margin-top: 0px;
+  font-size: 60px;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+h3 {
+  color: #66bfbf;
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+  font-family: cursive;
+}
+
+/*********************CLASS CONTAINER************************/
+.top-container {
+  background-color: rgba(173, 216, 230, 0.322);
+  border: 0px;
+  position: relative;
+  padding-top: 150px;
+  height: 600px;
+}
+
+.middle-container {
+    background-color: rgba(173, 216, 230, 0.055);
+}
+
+.bottom-container {
+    background-color: rgba(173, 216, 230, 0.705);
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 500px;
+}
+
+.mountain {
+  position: relative;
+}
+
+.skill-row {
+    width:auto;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: left;
+    margin-bottom: 200px;
+}
+
+.code-icon{
+    width: 25%;
+    float: right;
+}
+
+.web-icon{
+    width: 25%;
+    float: left;
+}
+
+.contact-me{
+
+}
+
+.intro {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.bold {
+    color:red;
+    text-decoration: underline;
+}
+
+/******************ID CONTAINER************/
+#logo {
+  width: 30px;
+}
+
